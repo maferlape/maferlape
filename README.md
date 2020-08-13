@@ -1,13 +1,13 @@
-## Hola 👋🏻, soy María Lares 👩🏻‍💼
-- ## _Soy venezolana, actualmente en Brasil._ 😀
+ Hola 👋🏻, soy María Lares 👩🏻‍💼
+- _Soy venezolana, actualmente en Brasil._ 😀
 
 
-- ## 👩🏻‍💻 _Developer Web_ en Formación 
-- ## 🎓 Formada en _Matemática_ 
-- ## 👅  Bilingue: _Español 🇻🇪  y portugués 🇧🇷_
+- 👩🏻‍💻 _Developer Web_ en Formación 
+- 🎓 Formada en _Matemática_ 
+- 👅  Bilingue: _Español 🇻🇪  y portugués 🇧🇷_
 
 ---
-## _Tecnologías en aprendizaje_
+_Tecnologías en aprendizaje_
 
 
 <p>
@@ -17,10 +17,10 @@
 
 ---
 
-## ✉️ Como contactarme: _<maria.lares.26@gmail.com>_
+✉️ Como contactarme: _<maria.lares.26@gmail.com>_
 
 ---
-## _Sigueme_
+_Sigueme_
 
 
 <p>
