@@ -1,13 +1,13 @@
- ### Hola 👋🏻, soy María Lares 👩🏻‍💼
-- _Soy venezolana, actualmente en Brasil._ 😀
+ ### Olá 👋🏻, sou María Lares 👩🏻‍💼
+- _Sou venezuelana, atualmente no Brasil._ 😀
 
 
 - 👩🏻‍💻 _Front End developer_ 
-- 🎓 Formada en _Matemática_ 
+- 🎓 Formada em _Matemática_ 
 - 👅  Bilingue: _Español 🇻🇪  y portugués 🇧🇷_
 
 ---
-_Tecnologías en aprendizaje_
+_Tecnologías_
 
 
 <p>
