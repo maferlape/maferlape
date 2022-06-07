@@ -2,7 +2,7 @@
 - _Soy venezolana, actualmente en Brasil._ 😀
 
 
-- 👩🏻‍💻 _Developer Web_ en Formación 
+- 👩🏻‍💻 _Front End developer_ 
 - 🎓 Formada en _Matemática_ 
 - 👅  Bilingue: _Español 🇻🇪  y portugués 🇧🇷_
 
